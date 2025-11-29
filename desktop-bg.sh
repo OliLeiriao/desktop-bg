@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 1. Define the folder path.
-# $HOME is a shortcut for /home/yourusername
+# $HOME is a shortcut for /home/yourusername (~/)
 DIR="$HOME/Pictures/background"
 
 # 2. Find all image files (jpg, png, jpeg), shuffle them, and pick the first one.
