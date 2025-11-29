@@ -35,6 +35,7 @@ And there you go!
 
 ## Troubleshooting
 **My background never changed :(**
+
 Since `cron` runs jobs without the full graphical environment, the script might fail to change the background if it can't find your session. 
 If the background does not change after 30 minutes, you can try modifying the cron entry with your display information:
 ```
